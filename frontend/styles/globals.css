@@ -1,0 +1,176 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 142 45% 96%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 142 30% 98%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 142 30% 98%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 142.1 76.2% 36.3%;
+    --primary-foreground: 355.7 100% 97.3%;
+    --secondary: 142 30% 94%;
+    --secondary-foreground: 222.2 84% 4.9%;
+    --muted: 142 25% 92%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 142 30% 94%;
+    --accent-foreground: 222.2 84% 4.9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 142 30% 98%;
+    --border: 142 20% 88%;
+    --input: 142 20% 88%;
+    --ring: 142.1 76.2% 36.3%;
+    --radius: 0.75rem;
+    
+    /* Custom finance colors */
+    --success: 142.1 76.2% 36.3%;
+    --success-foreground: 0 0% 98%;
+    --warning: 32.1 90.9% 58.8%;
+    --warning-foreground: 0 0% 98%;
+    --info: 221.2 83.2% 53.3%;
+    --info-foreground: 0 0% 98%;
+    
+    /* Chart colors */
+    --chart-1: 142.1 76.2% 36.3%;
+    --chart-2: 32.1 90.9% 58.8%;
+    --chart-3: 221.2 83.2% 53.3%;
+    --chart-4: 340.5 75% 55.1%;
+    --chart-5: 262.1 83.3% 57.8%;
+  }
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 142.1 76.2% 36.3%;
+    --primary-foreground: 355.7 100% 97.3%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 142.1 76.2% 36.3%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+}
+
+@layer components {
+  /* Enhanced Card Styles */
+  .card-gradient {
+    @apply bg-gradient-to-br from-card via-card to-muted/20;
+  }
+  
+  .card-hover {
+    @apply transition-all duration-200 hover:shadow-lg hover:shadow-primary/10 hover:-translate-y-0.5;
+  }
+  
+  /* Finance Colors */
+  .text-success {
+    color: hsl(var(--success));
+  }
+  
+  .text-warning {
+    color: hsl(var(--warning));
+  }
+  
+  .text-info {
+    color: hsl(var(--info));
+  }
+  
+  .bg-success {
+    background-color: hsl(var(--success));
+  }
+  
+  .bg-warning {
+    background-color: hsl(var(--warning));
+  }
+  
+  .bg-info {
+    background-color: hsl(var(--info));
+  }
+  
+  /* Status Indicators */
+  .status-up {
+    color: hsl(var(--success));
+    background-color: hsl(var(--success) / 0.1);
+    border-color: hsl(var(--success) / 0.2);
+    @apply border;
+  }
+  
+  .status-down {
+    color: hsl(var(--destructive));
+    background-color: hsl(var(--destructive) / 0.1);
+    border-color: hsl(var(--destructive) / 0.2);
+    @apply border;
+  }
+  
+  .status-neutral {
+    @apply text-muted-foreground bg-muted/10 border-border border;
+  }
+  
+  /* Navigation Enhancements */
+  .nav-item {
+    @apply relative overflow-hidden transition-all duration-200;
+  }
+  
+  .nav-item::before {
+    @apply absolute left-0 top-0 h-full w-1 bg-primary transform -translate-x-full transition-transform duration-200;
+    content: '';
+  }
+  
+  .nav-item.active::before {
+    @apply translate-x-0;
+  }
+  
+  /* Glass Effect */
+  .glass {
+    @apply backdrop-blur-md bg-card/80 border border-border/50;
+  }
+  
+  /* Metric Cards */
+  .metric-card {
+    @apply relative overflow-hidden bg-gradient-to-br from-card to-muted/10 border border-border/50 hover:border-primary/50 transition-all duration-200;
+  }
+  
+  .metric-card::before {
+    @apply absolute inset-0 bg-gradient-to-br from-primary/5 to-transparent opacity-0 transition-opacity duration-200;
+    content: '';
+  }
+  
+  .metric-card:hover::before {
+    @apply opacity-100;
+  }
+  
+  /* Enhanced Buttons */
+  .btn-finance {
+    @apply relative overflow-hidden bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-200;
+  }
+  
+  .btn-finance::before {
+    @apply absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent transform -skew-x-12 -translate-x-full transition-transform duration-500;
+    content: '';
+  }
+  
+  .btn-finance:hover::before {
+    @apply translate-x-full;
+  }
+}

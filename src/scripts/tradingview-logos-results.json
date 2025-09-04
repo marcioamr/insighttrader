@@ -1,0 +1,474 @@
+[
+  {
+    "symbol": "PETR4",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/petr4.svg",
+    "description": "PETR4",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "VALE3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/vale3.svg",
+    "description": "VALE3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "ITUB4",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/itub4.svg",
+    "description": "ITUB4",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "BBDC4",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/bbdc4.svg",
+    "description": "BBDC4",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "ABEV3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/abev3.svg",
+    "description": "ABEV3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "WEGE3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/wege3.svg",
+    "description": "WEGE3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "MGLU3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/mglu3.svg",
+    "description": "MGLU3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "ITSA4",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/itsa4.svg",
+    "description": "ITSA4",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "BBAS3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/bbas3.svg",
+    "description": "BBAS3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "JBSS3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/jbss3.svg",
+    "description": "JBSS3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "LREN3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/lren3.svg",
+    "description": "LREN3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "VVAR3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/vvar3.svg",
+    "description": "VVAR3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "AMER3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/amer3.svg",
+    "description": "AMER3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "PCAR3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/pcar3.svg",
+    "description": "PCAR3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "CRFB3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/crfb3.svg",
+    "description": "CRFB3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "TOTS3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/tots3.svg",
+    "description": "TOTS3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "LWSA3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/lwsa3.svg",
+    "description": "LWSA3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "POSI3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/posi3.svg",
+    "description": "POSI3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "EGIE3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/egie3.svg",
+    "description": "EGIE3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "CPFE3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/cpfe3.svg",
+    "description": "CPFE3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "EQTL3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/eqtl3.svg",
+    "description": "EQTL3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "ENBR3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/enbr3.svg",
+    "description": "ENBR3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "MRVE3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/mrve3.svg",
+    "description": "MRVE3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "CYRE3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/cyre3.svg",
+    "description": "CYRE3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "EZTC3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/eztc3.svg",
+    "description": "EZTC3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "USIM5",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/usim5.svg",
+    "description": "USIM5",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "CSNA3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/csna3.svg",
+    "description": "CSNA3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "GGBR4",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/ggbr4.svg",
+    "description": "GGBR4",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "SUZB3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/suzb3.svg",
+    "description": "SUZB3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "KLBN11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/klbn11.svg",
+    "description": "KLBN11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "VIVT3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/vivt3.svg",
+    "description": "VIVT3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "TIMS3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/tims3.svg",
+    "description": "TIMS3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "BEEF3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/beef3.svg",
+    "description": "BEEF3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "BRFS3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/brfs3.svg",
+    "description": "BRFS3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "SMTO3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/smto3.svg",
+    "description": "SMTO3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "RDOR3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/rdor3.svg",
+    "description": "RDOR3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "HAPV3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/hapv3.svg",
+    "description": "HAPV3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "QUAL3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/qual3.svg",
+    "description": "QUAL3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "BOVA11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/bova11.svg",
+    "description": "BOVA11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "SMAL11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/smal11.svg",
+    "description": "SMAL11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "IVVB11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/ivvb11.svg",
+    "description": "IVVB11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "HGLG11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/hglg11.svg",
+    "description": "HGLG11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "VISC11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/visc11.svg",
+    "description": "VISC11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "XPLG11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/xplg11.svg",
+    "description": "XPLG11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "KNRI11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/knri11.svg",
+    "description": "KNRI11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "BCFF11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/bcff11.svg",
+    "description": "BCFF11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "RAIZ4",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/raiz4.svg",
+    "description": "RAIZ4",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "AZUL4",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/azul4.svg",
+    "description": "AZUL4",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "GOAU4",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/goau4.svg",
+    "description": "GOAU4",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "RENT3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/rent3.svg",
+    "description": "RENT3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "RAIL3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/rail3.svg",
+    "description": "RAIL3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "CCRO3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/ccro3.svg",
+    "description": "CCRO3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "CIEL3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/ciel3.svg",
+    "description": "CIEL3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "NTCO3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/ntco3.svg",
+    "description": "NTCO3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "TAEE11",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/taee11.svg",
+    "description": "TAEE11",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "CMIN3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/cmin3.svg",
+    "description": "CMIN3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "MULT3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/mult3.svg",
+    "description": "MULT3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "PETZ3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/petz3.svg",
+    "description": "PETZ3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  },
+  {
+    "symbol": "RADL3",
+    "logoUrl": "https://s3-symbol-logo.tradingview.com/BMFBOVESPA/radl3.svg",
+    "description": "RADL3",
+    "exchange": "BMFBOVESPA",
+    "validated": true,
+    "tradingViewData": null
+  }
+]
